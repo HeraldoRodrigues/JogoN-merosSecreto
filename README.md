@@ -1,11 +1,26 @@
-## Jodo do Número Secreto!
+# Jogo Número Secreto
 
-## Contatos:
+Um jogo simples onde o jogador precisa adivinhar um número secreto gerado pelo computador.
 
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## Como jogar
+
+1.  O computador gera um número secreto entre 1 e 100.
+2.  O jogador tenta adivinhar o número.
+3.  O computador informa se o palpite está correto, muito alto ou muito baixo.
+4.  O jogo continua até que o jogador adivinhe o número secreto.
+
+## Tecnologias
+
+* HTML
+
+## Como executar
+
+1.  Abra o arquivo `index.html` em seu navegador.
+
+## Contribuição
+
+Contribuições são bem-vindas!
+
+## Licença
+
+Livre!
